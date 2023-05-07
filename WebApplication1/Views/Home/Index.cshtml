@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+
+    string message = TempData["Message"] as string;
+    if (!String.IsNullOrEmpty(message))
+    
+     
+    
+}
+
+@model NotModel
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Notification App</h1>
+</div>
+
+
+
+<form method="post">
+
+    @Html.Label("Device Id")
+    @Html.TextBoxFor(x => x.DeviceId, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.DeviceId, "", new { @class = "text-danger" })
+
+    <br />
+
+    @Html.Label("Notification Title")
+    @Html.TextAreaFor(x => x.Title, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Title, "", new { @class = "text-danger" })
+
+    <input checked hidden data-val="true"
+           data-val-required="The isActive field is required."
+           id="isAndroidDevice"
+           name="isAndroidDevice"
+           type="checkbox"
+           value="true" />
+
+
+
+    <br />
+
+    @Html.Label("Notification Message")
+    @Html.TextAreaFor(x => x.Body, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Body, "", new { @class = "text-danger" })
+
+
+
+    <br />
+
+
+
+
+
+    <button type="submit" class="btn btn-info">   Send </button>
+
+        <div class="message">
+            <p>@message</p>
+        </div>
+
+
+</form>
+

@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Mail";
+
+
+    string message = TempData["Message"] as string;
+    if (!String.IsNullOrEmpty(message))
+
+
+    }
+
+    @model MailModel
+
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome to Notification App</h1>
+    </div>
+
+
+
+    <form method="post">
+
+
+
+        @Html.Label("Konu")
+        @Html.TextAreaFor(x => x.Subject, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Subject, "", new { @class = "text-danger" })
+
+
+
+
+
+        <br />
+
+        @Html.Label("Mail")
+        @Html.TextAreaFor(x => x.Body, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Body, "", new { @class = "text-danger" })
+
+
+
+        <br />
+
+
+
+
+
+        <button type="submit" class="btn btn-info">   Send </button>
+
+        <div class="message">
+            <p>@message</p>
+        </div>
+
+  
+    </form>
+

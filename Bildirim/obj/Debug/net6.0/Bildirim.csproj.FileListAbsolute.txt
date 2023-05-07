@@ -1,0 +1,154 @@
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Bildirim.exe
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Bildirim.deps.json
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Bildirim.runtimeconfig.json
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\CorePush.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.Bildirim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.build.Bildirim.props
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bildirim.props
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bildirim.props
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\scopedcss\bundle\Bildirim.styles.css
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\refint\Bildirim.dll
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\Bildirim.genruntimeconfig.cache
+C:\Users\DELL\Source\Repos\Bildirim\obj\Debug\net6.0\ref\Bildirim.dll
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.9\Content\Areas\HelpPage\Views\Web.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+C:\Users\DELL\Source\Repos\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.9\Content\Areas\HelpPage\Views\Web.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Bildirim.exe
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Bildirim.deps.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Bildirim.runtimeconfig.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\CorePush.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.Bildirim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.build.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\scopedcss\bundle\Bildirim.styles.css
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CopyComplete
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\refint\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\Bildirim.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Notification App\Bildirim\obj\Debug\net6.0\ref\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.9\Content\Areas\HelpPage\Views\Web.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Bildirim.exe
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Bildirim.deps.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Bildirim.runtimeconfig.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\CorePush.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.Bildirim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.build.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bildirim.props
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\scopedcss\bundle\Bildirim.styles.css
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.csproj.CopyComplete
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\refint\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.pdb
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\Bildirim.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\obj\Debug\net6.0\ref\Bildirim.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\CoreTweet.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.Core.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.Core.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.InfoCard.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\System.Net.Http.WebRequest.dll
+C:\Users\DELL\Desktop\Notification App\.Net\Bildirim\bin\Debug\net6.0\OAuth.dll
